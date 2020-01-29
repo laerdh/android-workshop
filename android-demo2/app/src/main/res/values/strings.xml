@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Todo-list</string>
+
+    <!-- Add Todo Item -->
+    <string name="todo_item_title">Add todo</string>
+    <string name="todo_item_title_hint">Title</string>
+    <string name="todo_item_description_hint">Description</string>
+    <string name="button_add">Add</string>
+
+    <!-- Todo Item Details -->
+    <string name="todo_item_description_label">Description:</string>
+    <string name="todo_item_date_label">Date:</string>
+    <string name="todo_item_status_label">Status:</string>
+    <string name="todo_item_status_completed">Completed</string>
+    <string name="todo_item_status_todo">To do</string>
+    <string name="button_delete">Delete</string>
+</resources>
